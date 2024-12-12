@@ -1,3 +1,3 @@
 # educational backend project
 
-This backend project with javascript
+This is a backend project made with javascript
